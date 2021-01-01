@@ -1,2 +1,6 @@
 ### cargo ###
 */target
+
+### IDE ###
+.idea
+.vscode
