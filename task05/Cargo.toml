@@ -1,0 +1,10 @@
+[package]
+name = "task05"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+argparse = "0.2.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.8"
+serde_repr = "0.1"

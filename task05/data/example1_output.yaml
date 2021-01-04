@@ -1,0 +1,32 @@
+---
+- first_name: FirstName1
+  last_name: LastName1
+  age: ~
+  gender: ~
+  grades:
+    IT: 5
+- first_name: FirstName2
+  last_name: LastName2
+  age: 20
+  gender: ~
+  grades:
+    IT: 5
+- first_name: FirstName3
+  last_name: LastName3
+  age: ~
+  gender: 1
+  grades:
+    IT: 5
+- first_name: FirstName4
+  last_name: LastName4
+  age: ~
+  gender: 2
+  grades:
+    IT: 5
+- first_name: FirstName5
+  last_name: LastName5
+  age: ~
+  gender: ~
+  grades:
+    IT: 5
+    Mathematics: 5
