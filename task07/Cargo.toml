@@ -1,0 +1,7 @@
+[package]
+name = "task07"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+futures = "0.3"
