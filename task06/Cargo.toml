@@ -1,0 +1,10 @@
+[package]
+name = "task06"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+argparse = "0.2.2"
+
+[dev-dependencies]
+rstest = "0.6.4"
